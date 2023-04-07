@@ -1,8 +1,8 @@
 # Data engineering case interview
 Data engineering case made for a last round of interviews in a growing company. 
 There are 3 tasks in this test: 
-- [1_API](1_API) : ETL using an API for the data extraction.
-- [2_Web_Scraper](2_Web_Scraper) : ETL using web scraping for the data extraction.
+- [1_API](1_API) : ETL using an API for the data extraction, and PostgreSQL for the database.
+- [2_Web_Scraper](2_Web_Scraper) : ETL using web scraping for the data extraction, and PostgreSQL for the database.
 - [3_Flask](3_Flask) : RESTful API implementation using Flask.
 
 Read the file [Data_Engineering_Test_Instructions.pdf](Data_Engineering_Test_Instructions.pdf) for the test instructions.
